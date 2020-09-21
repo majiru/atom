@@ -1,0 +1,6 @@
+Atom is a plan9 atom feed generator.
+
+Building:
+	You will need libxml from 9atom to build atom.
+	A copy of 9atom can be found at https://github.com/Plan9-Archive/9atom.
+	You will need /sys/src/libxml and /sys/include/xml.h.
